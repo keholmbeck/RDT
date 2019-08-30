@@ -1,0 +1,619 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.10)  21 DEC 2017 16:08
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/scrartcl.cls
+Document Class: scrartcl 2017/04/13 v3.23 KOMA-Script document class (article)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/scrkbase.sty
+Package: scrkbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-dependent b
+asics and keyval usage)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/scrbase.sty
+Package: scrbase 2017/04/13 v3.23 KOMA-Script package (KOMA-Script-independent 
+basics and keyval usage)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/scrlfile.sty
+Package: scrlfile 2017/04/13 v3.23 KOMA-Script package (loading files)
+
+Package scrlfile, 2017/04/13 v3.23 KOMA-Script package (loading files)
+                  Copyright (C) Markus Kohm
+
+))) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/tocbasic.sty
+Package: tocbasic 2017/04/13 v3.23 KOMA-Script package (handling toc-files)
+\scr@dte@tocline@numberwidth=\skip41
+\scr@dte@tocline@numbox=\box26
+)
+Package tocbasic Info: omitting babel extension for `toc'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `toc' on input line 131.
+Package tocbasic Info: omitting babel extension for `lof'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lof' on input line 133.
+Package tocbasic Info: omitting babel extension for `lot'
+(tocbasic)             because of feature `nobabel' available
+(tocbasic)             for `lot' on input line 134.
+Class scrartcl Info: File `scrsize11pt.clo' used to setup font sizes on input l
+ine 2059.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/scrsize11pt.clo
+File: scrsize11pt.clo 2017/04/13 v3.23 KOMA-Script font size class option (11pt
+)
+) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/koma-script/typearea.sty
+Package: typearea 2017/04/13 v3.23 KOMA-Script package (type area)
+\ta@bcor=\skip42
+\ta@div=\count79
+\ta@hblk=\skip43
+\ta@vblk=\skip44
+\ta@temp=\skip45
+\footheight=\skip46
+Package typearea Info: These are the values describing the layout:
+(typearea)             DIV  = 10
+(typearea)             BCOR = 0.0pt
+(typearea)             \paperwidth      = 597.50793pt
+(typearea)              \textwidth      = 418.25555pt
+(typearea)              DIV departure   = -6%
+(typearea)              \evensidemargin = 17.3562pt
+(typearea)              \oddsidemargin  = 17.3562pt
+(typearea)             \paperheight     = 845.04694pt
+(typearea)              \textheight     = 595.80026pt
+(typearea)              \topmargin      = -25.16531pt
+(typearea)              \headheight     = 17.0pt
+(typearea)              \headsep        = 20.40001pt
+(typearea)              \topskip        = 11.0pt
+(typearea)              \footskip       = 47.6pt
+(typearea)              \baselineskip   = 13.6pt
+(typearea)              on input line 1647.
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\scr@dte@part@maxnumwidth=\skip47
+\scr@dte@section@maxnumwidth=\skip48
+\scr@dte@subsection@maxnumwidth=\skip49
+\scr@dte@subsubsection@maxnumwidth=\skip50
+\scr@dte@paragraph@maxnumwidth=\skip51
+\scr@dte@subparagraph@maxnumwidth=\skip52
+LaTeX Info: Redefining \textsubscript on input line 4094.
+\abovecaptionskip=\skip53
+\belowcaptionskip=\skip54
+\c@pti@nb@sid@b@x=\box27
+\c@figure=\count86
+\c@table=\count87
+Class scrartcl Info: Redefining `\numberline' on input line 5233.
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2017/05/19 3.10 The Babel package
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/01/24 v3.3q English support from the babel system
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2017/05/19 3.10 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen104
+))
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen105
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen106
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks16
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks17
+\eqnshift@=\dimen107
+\alignsep@=\dimen108
+\tagshift@=\dimen109
+\tagwidth@=\dimen110
+\totwidth@=\dimen111
+\lineht@=\dimen112
+\@envbody=\toks18
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2015/03/04 v2.20.2
+\thm@style=\toks20
+\thm@bodyfont=\toks21
+\thm@headfont=\toks22
+\thm@notefont=\toks23
+\thm@headpunct=\toks24
+\thm@preskip=\skip58
+\thm@postskip=\skip59
+\thm@headsep=\skip60
+\dth@everypar=\toks25
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/tools/bm.sty
+Package: bm 2017/01/16 v1.2c Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup6
+\symboldletters=\mathgroup7
+\symboldsymbols=\mathgroup8
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 141.
+LaTeX Info: Redefining \bm on input line 207.
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/sectsty/sectsty.sty
+Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
+les
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count101
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count102
+\float@exts=\toks26
+\float@box=\box30
+\@float@everytoks=\toks27
+\@floatcapt=\box31
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count103
+\lst@gtempboxa=\box32
+\lst@token=\toks28
+\lst@length=\count104
+\lst@currlwidth=\dimen115
+\lst@column=\count105
+\lst@pos=\count106
+\lst@lostspace=\dimen116
+\lst@width=\dimen117
+\lst@newlines=\count107
+\lst@lineno=\count108
+\lst@maxwidth=\dimen118
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count109
+\lst@skipnumbers=\count110
+\lst@framebox=\box33
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+)
+
+Class scrartcl Warning: Usage of package `fancyhdr' together
+(scrartcl)              with a KOMA-Script class is not recommended.
+(scrartcl)              I'd suggest to use 
+(scrartcl)              package `scrlayer-scrpage'.
+(scrartcl)              Nevertheless, using requested
+(scrartcl)              package `fancyhdr' on input line 59.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip61
+\f@ncyO@elh=\skip62
+\f@ncyO@erh=\skip63
+\f@ncyO@olh=\skip64
+\f@ncyO@orh=\skip65
+\f@ncyO@elf=\skip66
+\f@ncyO@erf=\skip67
+\f@ncyO@olf=\skip68
+\f@ncyO@orf=\skip69
+)
+(./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 93.
+LaTeX Font Info:    ... okay on input line 93.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count111
+\scratchdimen=\dimen119
+\scratchbox=\box34
+\nofMPsegments=\count112
+\nofMParguments=\count113
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count114
+\MPscratchDim=\dimen120
+\MPnumerator=\count115
+\makeMPintoPDFobject=\count116
+\everyMPtoPDFconversion=\toks30
+) (/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)) (/usr/local/texlive/2017basic/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\c@lstlisting=\count117
+LaTeX Font Info:    Try loading font information for U+msa on input line 96.
+ (/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 96.
+
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 96.
+
+(./main.toc)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1
+
+
+{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2
+] <laminar_v_turbulent.jpg, id=22, 441.65pt x 481.8pt>
+File: laminar_v_turbulent.jpg Graphic file (type jpg)
+
+<use laminar_v_turbulent.jpg>
+Package pdftex.def Info: laminar_v_turbulent.jpg used on input line 178.
+(pdftex.def)             Requested size: 144.54pt x 157.67853pt.
+ [3 <./laminar_v_turbulent.jpg>] [4]
+<../data/Simple_shear.PNG, id=29, 401.5pt x 301.125pt>
+File: ../data/Simple_shear.PNG Graphic file (type png)
+
+<use ../data/Simple_shear.PNG>
+Package pdftex.def Info: ../data/Simple_shear.PNG used on input line 243.
+(pdftex.def)             Requested size: 289.07999pt x 216.82361pt.
+ [5 <../data/Simple_shear.PNG>]
+<../data/fieldModesInit.png, id=34, 562.1pt x 421.575pt>
+File: ../data/fieldModesInit.png Graphic file (type png)
+
+<use ../data/fieldModesInit.png>
+Package pdftex.def Info: ../data/fieldModesInit.png used on input line 320.
+(pdftex.def)             Requested size: 418.25555pt x 313.69101pt.
+ [6] [7 <../data/fieldModesInit.png (PNG copy)>]
+Overfull \hbox (13.05333pt too wide) in paragraph at lines 333--334
+\OT1/cmr/m/n/10.95 Rapid Dis-tor-tion The-ory, or RDT, comes from the evo-lu-ti
+on of tur-bu-lence as the turbulence-
+ []
+
+
+Package amsfonts Warning: Obsolete command \bold; \mathbf should be used instea
+d on input line 354.
+
+[8] [9] [10] [11]
+<../data/finalRuns/run1_frame1.png, id=59, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run1_frame1.png Graphic file (type png)
+
+<use ../data/finalRuns/run1_frame1.png>
+Package pdftex.def Info: ../data/finalRuns/run1_frame1.png used on input line 5
+65.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../data/finalRuns/run1_frame16.png, id=60, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run1_frame16.png Graphic file (type png)
+
+<use ../data/finalRuns/run1_frame16.png>
+Package pdftex.def Info: ../data/finalRuns/run1_frame16.png used on input line 
+570.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../data/finalRuns/run1_frame37.png, id=61, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run1_frame37.png Graphic file (type png)
+
+<use ../data/finalRuns/run1_frame37.png>
+Package pdftex.def Info: ../data/finalRuns/run1_frame37.png used on input line 
+575.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run1_frame67.png, id=62, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run1_frame67.png Graphic file (type png)
+
+<use ../data/finalRuns/run1_frame67.png>
+Package pdftex.def Info: ../data/finalRuns/run1_frame67.png used on input line 
+580.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+ [12]
+Overfull \vbox (163.6866pt too high) has occurred while \output is active []
+
+
+[13 <../data/finalRuns/run1_frame1.png (PNG copy)> <../data/finalRuns/run1_fram
+e16.png (PNG copy)> <../data/finalRuns/run1_frame37.png (PNG copy)>]
+<../data/finalRuns/run1_frame100.png, id=70, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run1_frame100.png Graphic file (type png)
+
+<use ../data/finalRuns/run1_frame100.png>
+Package pdftex.def Info: ../data/finalRuns/run1_frame100.png used on input line
+ 585.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run2_frame1.png, id=71, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run2_frame1.png Graphic file (type png)
+
+<use ../data/finalRuns/run2_frame1.png>
+Package pdftex.def Info: ../data/finalRuns/run2_frame1.png used on input line 5
+95.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run2_frame4.png, id=72, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run2_frame4.png Graphic file (type png)
+
+<use ../data/finalRuns/run2_frame4.png>
+Package pdftex.def Info: ../data/finalRuns/run2_frame4.png used on input line 6
+00.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+ [14 <../data/finalRuns/run1_frame67.png (PNG copy)> <../data/finalRuns/run1_fr
+ame100.png (PNG copy)>]
+<../data/finalRuns/run2_frame7.png, id=76, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run2_frame7.png Graphic file (type png)
+
+<use ../data/finalRuns/run2_frame7.png>
+Package pdftex.def Info: ../data/finalRuns/run2_frame7.png used on input line 6
+05.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run2_frame10.png, id=77, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run2_frame10.png Graphic file (type png)
+
+<use ../data/finalRuns/run2_frame10.png>
+Package pdftex.def Info: ../data/finalRuns/run2_frame10.png used on input line 
+610.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+ [15 <../data/finalRuns/run2_frame1.png (PNG copy)> <../data/finalRuns/run2_fra
+me4.png (PNG copy)>]
+<../data/finalRuns/run2_frame100.png, id=81, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run2_frame100.png Graphic file (type png)
+
+<use ../data/finalRuns/run2_frame100.png>
+Package pdftex.def Info: ../data/finalRuns/run2_frame100.png used on input line
+ 615.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+ [16 <../data/finalRuns/run2_frame7.png (PNG copy)> <../data/finalRuns/run2_fra
+me10.png (PNG copy)>]
+<../data/finalRuns/run3_frame1.png, id=85, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run3_frame1.png Graphic file (type png)
+
+<use ../data/finalRuns/run3_frame1.png>
+Package pdftex.def Info: ../data/finalRuns/run3_frame1.png used on input line 6
+26.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run3_frame4.png, id=86, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run3_frame4.png Graphic file (type png)
+
+<use ../data/finalRuns/run3_frame4.png>
+Package pdftex.def Info: ../data/finalRuns/run3_frame4.png used on input line 6
+31.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run3_frame7.png, id=87, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run3_frame7.png Graphic file (type png)
+
+<use ../data/finalRuns/run3_frame7.png>
+Package pdftex.def Info: ../data/finalRuns/run3_frame7.png used on input line 6
+36.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+ [17 <../data/finalRuns/run2_frame100.png (PNG copy)> <../data/finalRuns/run3_f
+rame1.png (PNG copy)>]
+<../data/finalRuns/run3_frame52.png, id=91, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run3_frame52.png Graphic file (type png)
+
+<use ../data/finalRuns/run3_frame52.png>
+Package pdftex.def Info: ../data/finalRuns/run3_frame52.png used on input line 
+641.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+
+<../data/finalRuns/run3_frame100.png, id=92, 1212.6906pt x 447.5922pt>
+File: ../data/finalRuns/run3_frame100.png Graphic file (type png)
+
+<use ../data/finalRuns/run3_frame100.png>
+Package pdftex.def Info: ../data/finalRuns/run3_frame100.png used on input line
+ 646.
+(pdftex.def)             Requested size: 542.0234pt x 216.81558pt.
+ [18 <../data/finalRuns/run3_frame4.png (PNG copy)> <../data/finalRuns/run3_fra
+me7.png (PNG copy)>] [19 <../data/finalRuns/run3_frame52.png (PNG copy)> <../da
+ta/finalRuns/run3_frame100.png (PNG copy)>] [20]
+
+Class scrartcl Warning: incompatible usage of \@ssect detected.
+(scrartcl)              You've used the KOMA-Script implementation of \@ssect
+(scrartcl)              from within a non compatible caller, that does not
+(scrartcl)              \scr@s@ct@@nn@m@ locally.
+(scrartcl)              This could result in several error messages on input li
+ne 681.
+
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¤ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no Ã in font cmr10!
+Missing character: There is no ¼ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+[21] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 7087 strings out of 494437
+ 110737 string characters out of 6166644
+ 335282 words of memory out of 5000000
+ 10299 multiletter control sequences out of 15000+600000
+ 20359 words of font info for 74 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 48i,15n,51p,8815b,1527s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmbx10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/pub
+lic/amsfonts/cm/cmbx8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2017basic/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2017basic/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2017basic/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2017basic/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb></usr/local/texlive/2017basic
+/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmmib8.pfb></usr/local/texlive/
+2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texli
+ve/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/te
+xlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local
+/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/loc
+al/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/l
+ocal/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><
+/usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+6.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/c
+msy8.pfb></usr/local/texlive/2017basic/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmti10.pfb>
+Output written on main.pdf (21 pages, 3080460 bytes).
+PDF statistics:
+ 167 PDF objects out of 1000 (max. 8388607)
+ 105 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 91 words of extra memory for PDF output out of 10000 (max. 10000000)
+

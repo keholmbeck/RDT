@@ -1,0 +1,19 @@
+\select@language {english}
+\contentsline {section}{\numberline {1}Introduction to Fluid Dynamics}{2}
+\contentsline {subsection}{\numberline {1.1}Navier-Stokes}{2}
+\contentsline {subsection}{\numberline {1.2}Turbulence}{2}
+\contentsline {subsection}{\numberline {1.3}Vorticity}{3}
+\contentsline {subsection}{\numberline {1.4}Strain}{4}
+\contentsline {subsection}{\numberline {1.5}Pressure}{5}
+\contentsline {subsection}{\numberline {1.6}Visualizing Flow Field Data}{6}
+\contentsline {section}{\numberline {2}Rapid Distortion Theory}{8}
+\contentsline {subsection}{\numberline {2.1}Fourier Modes}{8}
+\contentsline {subsubsection}{\numberline {2.1.1}Orthonormality}{9}
+\contentsline {subsubsection}{\numberline {2.1.2}Evolution of the Wavenumber}{9}
+\contentsline {subsection}{\numberline {2.2}RDT Equations}{9}
+\contentsline {subsubsection}{\numberline {2.2.1}Solenoidal Condition for RDT}{10}
+\contentsline {subsection}{\numberline {2.3}Simulations}{11}
+\contentsline {subsubsection}{\numberline {2.3.1}Simulation 1: $\kappa _1 = 0$}{12}
+\contentsline {subsubsection}{\numberline {2.3.2}Simulation 2: $\kappa _3 = 0$}{14}
+\contentsline {subsubsection}{\numberline {2.3.3}Simulation 3: $\kappa $ as-is}{17}
+\contentsline {section}{\numberline {3}Summary of Work}{20}
